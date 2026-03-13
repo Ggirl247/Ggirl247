@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ggirl247
 - 👀 I’m interested in ... Process Improvement
 - 🌱 I’m currently learning ... GCS & Python
-- 💞️ I’m looking to collaborate on ... Agile in the db space
+- 💞️ I’m looking to collaborate in ... the cloud space
 - 📫 How to reach me ... dbatstewart@gmail.com
 
 <!---
